@@ -1,0 +1,40 @@
+{
+  "Make": "Chevrolet",
+  "Model": "Impala",
+  "Year": 2007,
+  "LastUpdatedDate": "2019-01-01T05:00:00.000Z",
+  "Mileage": 30000,
+  "ShortTermCheckupObject": {
+    "OilContainer": {
+      "LastChangedDate": "2019-01-01T05:00:00.000Z",
+      "PreviouslyCheckedDate": "2019-01-01T05:00:00.000Z",
+      "NextCheckingDate": "2019-01-30T05:00:00.000Z"
+    },
+    "CoolantContainer": {
+      "LastChangedDate": "2019-01-01T05:00:00.000Z",
+      "PreviouslyCheckedDate": "2019-01-01T05:00:00.000Z",
+      "NextCheckingDate": "2019-01-30T05:00:00.000Z"
+    },
+    "AirFilter": {
+      "LastChangedDate": "2019-01-01T05:00:00.000Z",
+      "PreviouslyCheckedDate": "2019-01-01T05:00:00.000Z",
+      "NextCheckingDate": "2019-01-30T05:00:00.000Z"
+    },
+    "Tires": [
+      {
+        "TirePressure": 18,
+        "TireDepth": 18,
+        "LastChangedDate": "2019-01-01T05:00:00.000Z",
+        "PreviouslyCheckedDate": "2019-01-01T05:00:00.000Z",
+        "NextCheckingDate": "2019-01-30T05:00:00.000Z",
+        "Position": "FrontDriver"
+      }
+    ]
+  },
+  "LongTermCheckupObject": {
+    "SparkPlugs": {
+      "PreviouslyCheckedDate": "2019-01-01T05:00:00.000Z",
+      "NextCheckingDate": "2019-01-30T05:00:00.000Z"
+    }
+  }
+}
